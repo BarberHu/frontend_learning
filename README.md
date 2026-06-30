@@ -62,6 +62,14 @@ React/Next/TypeScript 前端工程师
 
 每日执行流程见：[docs/daily-study-workflow.md](docs/daily-study-workflow.md)
 
+复习队列见：[review-queue.md](review-queue.md)
+
+成果索引见：[artifacts.md](artifacts.md)
+
+每周评分见：[docs/weekly-rubric.md](docs/weekly-rubric.md)
+
+Obsidian 同步见：[docs/obsidian-sync.md](docs/obsidian-sync.md)
+
 ## 当前执行
 
 第一周从 JavaScript 基础、作用域、闭包开始。
@@ -90,6 +98,15 @@ C:\Users\Administrator\.codex\skills\frontend-learning-coach
 每天同步学习进度时，以 [progress.json](progress.json) 和 `logs/` 为事实源。AI 应先读取进度文件和周日志，再安排当天任务或更新复盘。
 
 整体战略快照见：[skills/frontend-learning-coach/references/roadmap-overview.md](skills/frontend-learning-coach/references/roadmap-overview.md)。AI 每次同步时应先掌握这份 6 个月主线，再处理当天任务。
+
+常用命令：
+
+```text
+使用 $frontend-learning-coach，安排我今天 4 小时学习任务。
+使用 $frontend-learning-coach，我今天学完了，更新 progress.json 和 week-01 日志。
+使用 $frontend-learning-coach，做本周复盘并给下周任务。
+使用 $frontend-learning-coach，总结我今天的学习内容，并导出到 Obsidian。
+```
 
 ## 后续 GitHub 推送
 

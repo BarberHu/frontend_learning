@@ -18,7 +18,8 @@ Before planning or reviewing learning progress, read the available state in this
 3. `logs/week-*.md`, especially the active week
 4. `docs/learning-map.md` for the full roadmap
 5. `docs/daily-study-workflow.md`
-6. recent Git status/log when the user asks about GitHub sync
+6. `review-queue.md`, `artifacts.md`, and `docs/weekly-rubric.md` when reviewing retention or weekly output
+7. recent Git status/log when the user asks about GitHub sync
 
 If files are missing, create or propose the smallest missing file needed to restore the workflow.
 
@@ -51,6 +52,18 @@ When the user says they finished today's work:
    - what should be repeated tomorrow
    - what should be deleted as low ROI
 4. Update `progress.json` and the active weekly log when the user asks you to persist progress.
+
+## Obsidian Export Workflow
+
+When the user asks to export or summarize learning into Obsidian:
+
+1. Read `docs/obsidian-sync.md` if available.
+2. Read `progress.json`, the active weekly log, `artifacts.md`, and `review-queue.md`.
+3. Create a concise daily summary with: main topic, artifact, concept explanation, blocker, Codex review finding, and tomorrow's smallest action.
+4. If the user provides an Obsidian vault path, write the note directly to `Learning/Frontend/YYYY-MM-DD-frontend-learning.md`.
+5. If no vault path is known, ask for the vault path or suggest using `scripts/export-daily-summary-to-obsidian.ps1`.
+
+Do not treat Obsidian as the progress source. The repository remains the source of truth; Obsidian is the knowledge archive.
 
 ## Learning Style
 

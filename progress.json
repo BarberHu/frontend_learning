@@ -7,6 +7,15 @@
   "roadmapOverview": "skills/frontend-learning-coach/references/roadmap-overview.md",
   "learningMap": "docs/learning-map.md",
   "dailyWorkflow": "docs/daily-study-workflow.md",
+  "reviewQueue": "review-queue.md",
+  "artifactsIndex": "artifacts.md",
+  "weeklyRubric": "docs/weekly-rubric.md",
+  "obsidianSync": {
+    "enabled": false,
+    "configExample": "obsidian-sync.config.example.json",
+    "guide": "docs/obsidian-sync.md",
+    "script": "scripts/export-daily-summary-to-obsidian.ps1"
+  },
   "lastSyncDate": null,
   "weeklyTimeBudgetHours": "15-25",
   "today": {

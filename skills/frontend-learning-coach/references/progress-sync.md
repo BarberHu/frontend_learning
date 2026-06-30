@@ -11,6 +11,9 @@ Read these files from the roadmap repository:
 3. `logs/week-xx.md`: human daily log and weekly review.
 4. `docs/learning-map.md`: 24-week roadmap and acceptance criteria.
 5. `docs/daily-study-workflow.md`: daily execution process.
+6. `review-queue.md`: spaced repetition queue.
+7. `artifacts.md`: resume evidence index.
+8. `docs/weekly-rubric.md`: weekly scoring criteria.
 
 Do not rely on memory if the files disagree. Prefer the repository files.
 
@@ -71,6 +74,8 @@ When the user asks to persist progress:
 4. Add unresolved issues to `blockers`.
 5. Replace `nextMicroActions` with 2-4 concrete next actions.
 6. Update the matching day section in `logs/week-xx.md`.
+7. Add new concepts to `review-queue.md` when they need D+1/D+3/D+7 review.
+8. Add visible outputs to `artifacts.md` when there is a real artifact.
 
 Never invent completed work. If the user did not provide evidence, mark it as planned or blocked, not completed.
 
