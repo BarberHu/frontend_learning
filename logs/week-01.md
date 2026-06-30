@@ -2,7 +2,7 @@
 
 > 启动日期：2026-06-30  
 > 主路线：React/Next + TypeScript + Node + WebGIS + Agent  
-> 主控地图：`frontend-webgis-agent-learning-map.md`
+> 主控地图：[`docs/learning-map.md`](../docs/learning-map.md)
 
 ## 本周目标
 
@@ -143,4 +143,3 @@
 - 做 1 道题
 - 写 1 段笔记
 - 提交 1 次 commit
-
