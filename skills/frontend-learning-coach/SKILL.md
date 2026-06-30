@@ -14,12 +14,15 @@ Treat repository files as the source of truth, not chat memory.
 Before planning or reviewing learning progress, read the available state in this order:
 
 1. `progress.json`
-2. `logs/week-*.md`, especially the active week
-3. `docs/learning-map.md`
-4. `docs/daily-study-workflow.md`
-5. recent Git status/log when the user asks about GitHub sync
+2. `references/roadmap-overview.md` for the strategic snapshot
+3. `logs/week-*.md`, especially the active week
+4. `docs/learning-map.md` for the full roadmap
+5. `docs/daily-study-workflow.md`
+6. recent Git status/log when the user asks about GitHub sync
 
 If files are missing, create or propose the smallest missing file needed to restore the workflow.
+
+Use `references/roadmap-overview.md` to keep the overall direction in mind even when the user asks for a small daily task. Do not optimize a day in a way that weakens the 6-month objective.
 
 ## Daily Sync Workflow
 
@@ -87,4 +90,3 @@ For weekly reviews, use:
 下周主线：
 删掉的低 ROI 任务：
 ```
-

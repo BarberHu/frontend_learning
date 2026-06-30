@@ -7,9 +7,10 @@ Use this reference when syncing Wang Yang's daily frontend learning progress.
 Read these files from the roadmap repository:
 
 1. `progress.json`: machine-readable learning state.
-2. `logs/week-xx.md`: human daily log and weekly review.
-3. `docs/learning-map.md`: 24-week roadmap and acceptance criteria.
-4. `docs/daily-study-workflow.md`: daily execution process.
+2. `skills/frontend-learning-coach/references/roadmap-overview.md`: strategic snapshot.
+3. `logs/week-xx.md`: human daily log and weekly review.
+4. `docs/learning-map.md`: 24-week roadmap and acceptance criteria.
+5. `docs/daily-study-workflow.md`: daily execution process.
 
 Do not rely on memory if the files disagree. Prefer the repository files.
 
@@ -85,4 +86,3 @@ A learning day counts only if at least one is true:
 - a commit was created
 
 Watching videos or reading articles alone is not enough.
-

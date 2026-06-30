@@ -89,6 +89,8 @@ C:\Users\Administrator\.codex\skills\frontend-learning-coach
 
 每天同步学习进度时，以 [progress.json](progress.json) 和 `logs/` 为事实源。AI 应先读取进度文件和周日志，再安排当天任务或更新复盘。
 
+整体战略快照见：[skills/frontend-learning-coach/references/roadmap-overview.md](skills/frontend-learning-coach/references/roadmap-overview.md)。AI 每次同步时应先掌握这份 6 个月主线，再处理当天任务。
+
 ## 后续 GitHub 推送
 
 本地确认内容后，可以在 GitHub 创建空仓库，然后执行：
