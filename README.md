@@ -60,6 +60,8 @@ React/Next/TypeScript 前端工程师
 
 完整路线见：[docs/learning-map.md](docs/learning-map.md)
 
+每日执行流程见：[docs/daily-study-workflow.md](docs/daily-study-workflow.md)
+
 ## 当前执行
 
 第一周从 JavaScript 基础、作用域、闭包开始。
@@ -83,4 +85,3 @@ React/Next/TypeScript 前端工程师
 git remote add origin https://github.com/<your-name>/<repo-name>.git
 git push -u origin main
 ```
-
