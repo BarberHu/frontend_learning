@@ -1,0 +1,5 @@
+interface:
+  display_name: "前端学习教练"
+  short_description: "同步前端学习进度，安排每日任务和周复盘"
+  default_prompt: "Use $frontend-learning-coach to sync my frontend learning progress and plan today's study tasks."
+

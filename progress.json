@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "repoPath": "E:/frontend-webgis-agent-roadmap",
+  "currentWeek": "W01",
+  "currentPhase": "JS/TS 基础修复",
+  "activeLog": "logs/week-01.md",
+  "learningMap": "docs/learning-map.md",
+  "dailyWorkflow": "docs/daily-study-workflow.md",
+  "lastSyncDate": null,
+  "weeklyTimeBudgetHours": "15-25",
+  "today": {
+    "date": null,
+    "timeBudgetHours": null,
+    "mainTopic": null,
+    "visibleArtifact": null,
+    "status": "not-started"
+  },
+  "completedArtifacts": [],
+  "blockers": [],
+  "nextMicroActions": [
+    "写一个闭包计数器练习",
+    "让 Codex 审查练习代码",
+    "在 logs/week-01.md 填写 Day 1"
+  ]
+}

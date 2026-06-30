@@ -77,6 +77,18 @@ React/Next/TypeScript 前端工程师
 - Codex 只作为解释器、评审员、测试员和面试官，不作为无脑代写工具。
 - 如果开始反复比较课程但没有产出，立刻回到本周日志，做一个 30 分钟微任务。
 
+## Codex Skill
+
+本仓库配套了个人 skill 备份：[skills/frontend-learning-coach](skills/frontend-learning-coach)。
+
+全局安装路径建议为：
+
+```text
+C:\Users\Administrator\.codex\skills\frontend-learning-coach
+```
+
+每天同步学习进度时，以 [progress.json](progress.json) 和 `logs/` 为事实源。AI 应先读取进度文件和周日志，再安排当天任务或更新复盘。
+
 ## 后续 GitHub 推送
 
 本地确认内容后，可以在 GitHub 创建空仓库，然后执行：
